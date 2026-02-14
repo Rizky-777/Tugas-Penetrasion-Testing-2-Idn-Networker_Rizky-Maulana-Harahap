@@ -4,7 +4,7 @@
 ![Levels](https://img.shields.io/badge/Levels-0--33-brightgreen)
 ![Linux](https://img.shields.io/badge/Linux-CLI-blue)
 
-Write-up lengkap dan solusi langkah-demi-langkah untuk tantangan OverTheWire: Bandit Wargame (Level 0 - 33) guna melatih keterampilan Linux CLI dan keamanan siber.
+Complete write-up and step-by-step solutions for the OverTheWire: Bandit Wargame challenges (Level 0 - 33) to practice Linux CLI and cybersecurity skills.
 
 ## 📋 Table of Contents
 
@@ -162,7 +162,7 @@ Throughout the Bandit Wargame challenges, you'll learn and master numerous Linux
 - **Usage**: Schedule recurring tasks
 - **Bandit Application**: Understanding scheduled scripts and automation
 - **Example**: `crontab -l` to list scheduled jobs
-- **What I Learned**: Cron syntax, task scheduling, automated script execution, time-based job management
+- **What I Learned**: Cron syntax, task scheduling, automated execution
 
 ### **git**
 - **Usage**: Version control system
