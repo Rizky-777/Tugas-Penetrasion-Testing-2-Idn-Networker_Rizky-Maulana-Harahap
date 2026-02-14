@@ -213,7 +213,7 @@ Throughout the Bandit Wargame challenges, you'll learn and master numerous Linux
 To follow along with these solutions, you should have:
 - Basic understanding of computer systems
 - Access to a terminal/command line
-- SSH client installed (usually pre-installed on Linux/Mac, or use PuTTY on Windows)
+- SSH client installed (usually pre-installed on Linux/Mac, available in Windows 10+ via PowerShell/Terminal, or use PuTTY)
 - Enthusiasm to learn!
 
 ## 🤝 Contributing
